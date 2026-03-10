@@ -1,3 +1,4 @@
 #ignore excel, csv files
 *.xlsx
 *.xls
+test-env/
