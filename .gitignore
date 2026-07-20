@@ -2,3 +2,4 @@
 *.xlsx
 *.xls
 test-env/
+.env
