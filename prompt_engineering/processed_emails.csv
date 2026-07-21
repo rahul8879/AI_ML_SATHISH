@@ -1,0 +1,2 @@
+email_id,category,urgency,confidence,routed_to,drafted_response,audit_trail
+2,Technical,High,100.0,tech-support@company.com,,[]
